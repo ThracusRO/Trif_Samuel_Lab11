@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 using Newtonsoft.Json;
 using Trif_Samuel_Lab11.Models;
 
-namespace Trif_Samuel_Lab11.Data
+namespace Trif_Samuel_Lab11.Data 
 {
     public class RestService : IRestService
     {
